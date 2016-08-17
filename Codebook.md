@@ -1,10 +1,10 @@
-One of the most exciting areas in all of data science right now is wearable computing. Companies like Fitbit, Nike, and Jawbone Up are racing to develop the most advanced algorithms to attract new users. The data linked to from the course website represent data collected from the accelerometers from the Samsung Galaxy S smartphone.
+One of the most exciting areas in all of data science right now is wearable computing. Companies like Fitbit, Nike, and Jawbone Up are racing to develop the most advanced algorithms to attract new users. The data linked to from the course website represent data collected from the accelerometers from the Samsung Galaxy S smartphone.  
 
-Here are the data for the project:
+Here are the data for the project:  
 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
-The data set broadly contains the following - 
+The data set broadly contains the following -   
 1. test data - Test set  in X_test.txt and and labels in Y_test.txt
 2. training data - Training set  in X_train.txt and and labels in Y_train.txt
 3. subject data - The subject who performed the activity in subject_test.txt and subject_train.txt
