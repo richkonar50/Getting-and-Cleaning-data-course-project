@@ -18,3 +18,21 @@ The script used for this project is in run_analysis.r. The purpose of this scrip
 3.Uses descriptive activity names to name the activities in the data set.  
 4.Appropriately labels the data set with descriptive variable names.  
 5.From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.  
+
+The variables used in the script are as follows -   
+1. testx - test measurement data  
+2. testy - test activity data  
+3. testsub - test subject data  
+4. trainx - training measurement data  
+5. trainy - training activity data  
+6. trainsub - training subject data  
+7. alldata - combined test and training measurement data  
+8. allactivity - combined test and training activity data  
+9. allsubject - combined test and training subject data  
+10. features - the list of features provided with the dataset  
+11. mean_std_col - columns with mean or standard deviation from amongst the features  
+12. mean_std_data - alldata filtered only for the mean and std deviation columns  
+13. anames - activity names provided with the dataset  
+14. datacolnames - all the column names for the various measurements from features  
+15. agdata - aggregate data to get the averages needed as output  
+
