@@ -5,9 +5,9 @@ Here are the data for the project:
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 The data set broadly contains the following -   
-1. test data - Test set  in X_test.txt and and labels in Y_test.txt
-2. training data - Training set  in X_train.txt and and labels in Y_train.txt
-3. subject data - The subject who performed the activity in subject_test.txt and subject_train.txt
+1. test data - Test set  in X_test.txt and and labels in Y_test.txt  
+2. training data - Training set  in X_train.txt and and labels in Y_train.txt  
+3. subject data - The subject who performed the activity in subject_test.txt and subject_train.txt  
 4. Features data - List of all the features in features.txt
 5. Activity - activity_labels.txt links the class labels with the activity names.
 
